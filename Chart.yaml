@@ -1,0 +1,4 @@
+apiVersion: v2
+name: mspr-ingress
+description: Ingress for MSPR APIs
+version: 0.1.0

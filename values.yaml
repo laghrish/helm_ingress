@@ -1,0 +1,10 @@
+services:
+  - name: api-clients
+    path: /clients
+    port: 8000
+  - name: api-products
+    path: /products
+    port: 8001
+  - name: api-orders
+    path: /orders
+    port: 8002
